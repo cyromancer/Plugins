@@ -108,6 +108,8 @@
     },
     "searchPanes": {
         "clearMessage": "Bersihkan Semua",
+        "showMessage": "Tampilkan",
+        "collapseMessage":"Tutup",
         "count": "{total}",
         "countFiltered": "{shown} ({total})",
         "title": "Filter Aktif - %d",
